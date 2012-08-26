@@ -4,7 +4,7 @@
  *
  * @package    Postmark
  * @author     Terry Matula (http://terrymatula.com), based on a library from Matthew Loberg (http://mloberg.com) and Drew Johnston (http://drewjoh.com)
- * @link       http://github.com/matula
+ * @link       https://github.com/matula/laravel-postmark
  * @license    Dbad License
  */
 

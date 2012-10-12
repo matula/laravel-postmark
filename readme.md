@@ -29,7 +29,7 @@ $postmark->subject('Chim chim on the loose again');
 $postmark->txt_body('Hey Speed, Please keep Spritle and Chim chim in line. Love, Racer X.');
 $response = $postmark->send();
 
-if ($reponse['error']) 
+if ($response['error']) 
 {
 	// There was a problem.
 	echo $response['message'];
